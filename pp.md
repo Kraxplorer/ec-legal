@@ -1,6 +1,6 @@
 # Privacy Policy for Embed Creator 🕊️
 
-*Last Updated: 16th of October 2023*
+_Last Updated: 16th of October 2023_
 
 Thank you for choosing Embed Creator ("the Bot"). This Privacy Policy elucidates how we accumulate, utilize, retain, and safeguard your data during your interactions with the Bot. By incorporating the Bot into your Discord server and employing its services, you endorse the stipulations delineated in this Privacy Policy. Should you dissent from this policy, we urge you to desist from using the Bot forthwith.
 
@@ -44,6 +44,6 @@ We withhold the prerogative to update or modify this Privacy Policy at any junct
 
 ## Contact Us 📞
 
-For any inquiries or concerns regarding the Bot or these Terms of Service, you can reach us at embedcreatorDc@gmail.com or by contacting \_\_afc\_\_ on Discord.
+For any inquiries or concerns regarding the Bot or these Terms of Service, you can reach us at rogalski.m4xi2@gmail.com or by contacting \_\_afc\_\_ on Discord.
 
 By employing the Bot, you acknowledge that you have perused, comprehended, and concurred with this Privacy Policy. We appreciate your trust and cooperation in Embed Creator. 🙌
